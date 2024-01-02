@@ -15,7 +15,7 @@ public class InvoiceGenerator {
 
     public HashMap<String, List<Ride>> userRide;
 
-    InvoiceGenerator() {
+    public InvoiceGenerator() {
         this.userRide = new HashMap<>();
     }
 
